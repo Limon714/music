@@ -255,7 +255,7 @@ input[type=range]::-webkit-slider-thumb{
 	overflow: hidden;
   }
   body{
-      background:#160468 ;
+      background:#160468;
   }
   .main .top_bar .options button{
 	margin: 0 10px;
